@@ -1,5 +1,6 @@
-include <stdio.h>
+#include <stdio.h>
 int main() {
-	printf("Hello World!");
+	printf("Hello World!\n ");
+	printf("This is version 2!");
 	return 0;
 }
